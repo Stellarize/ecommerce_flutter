@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-![alt text](https://github.com/[stellarize]/[flutter_ecommerce]/blob/[branch]/master/assets/images/Screenshot_1588448178.png)
+![alt text](/assets/images/Screenshot_1588448178.png)
 
 ## Getting Started
 
