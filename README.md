@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+
+![alt text](https://github.com/[stellarize]/[flutter_ecommerce]/blob/[branch]/image.jpg?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
